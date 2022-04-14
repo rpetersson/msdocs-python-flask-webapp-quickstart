@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/afa13944-29a5-4287-952f-06b37e702385/resourceGroups/matranking/providers/Microsoft.Web/sites/matranking",
+    "appService.deploySubpath": "."
+}
